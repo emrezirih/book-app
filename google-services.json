@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "788213481974",
+    "project_id": "bookapp-59582",
+    "storage_bucket": "bookapp-59582.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788213481974:android:d47629e80c04ddaa0ec7d7",
+        "android_client_info": {
+          "package_name": "com.ez.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788213481974-6rhhrom1pr6rqs5r0qjl06gfqsnv7sau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_dfOC2zqS7-7cM7MnKtj5RQlMYnQYCPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788213481974-6rhhrom1pr6rqs5r0qjl06gfqsnv7sau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788213481974-7a7scr12vg3c4rn1uhvndma8ouhk10gh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ez.bookapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
